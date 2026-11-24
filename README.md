@@ -1,5 +1,6 @@
-# Vježbe V – Stringovi i klasa Vozilo
+# Nasljeđivanje i polimorfizam – Zadaci 1, 2 i 3
 
-Paket `vjezbe5` (`src/vjezbe5/`) sadrži samo zadatke sa petih vježbi:
-* **Stringovi:** `V01_BrojRijeci`, `V02_Samoglasnici`, `V03_Palindrom`, `V04_UzastopnaSlova`, `V05_Podstring`, `V06_IstiBezObziraNaSlova`, `V07_BrisanjeSB`, `V08_ObrniRijeci`, `V09_SlobodnaPolja`, `V10_Enkripcija`, `V11_NegativniBrojevi`, `V12_Broker`
-* **Nasljeđivanje i static (Vozni park):** `Vozilo`, `Automobil`, `Motocikl`, `Kamion`, `TestnaKlasa`
+Projekat sadrži tri paketa unutar `src/`:
+* `vjezbe6.zadatak1` – **Zadatak 1 (Uvoznik proizvoda):** `Proizvod`, `Sezona`, `Garderoba`, `HemijskiProizvod`, `Hrana`, `Main`
+* `vjezbe6.zadatak2` – **Zadatak 2 (Elektronski uređaji + meni):** `EProizvodi`, `Racunar`, `Telefon`, `TV`, `Metode`, `Test`, `Main`
+* `vjezbe6.zadatak3` – **Zadatak 3 (Restoran i zaposleni):** `Zaposleni`, `Konobar`, `Kuvar`, `Menadzer`, `ObracunPlate`, `Restoran`, `TipSmjene`, `Smjena`, `Test`
