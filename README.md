@@ -1,6 +1,7 @@
-# Nasljeđivanje i polimorfizam – Zadaci 1, 2 i 3
+# OOP – GUI (Swing), Vježbe VI (Troškovi), Obrada izuzetaka i Vježbe VII (Razlomci)
 
-Projekat sadrži tri paketa unutar `src/`:
-* `vjezbe6.zadatak1` – **Zadatak 1 (Uvoznik proizvoda):** `Proizvod`, `Sezona`, `Garderoba`, `HemijskiProizvod`, `Hrana`, `Main`
-* `vjezbe6.zadatak2` – **Zadatak 2 (Elektronski uređaji + meni):** `EProizvodi`, `Racunar`, `Telefon`, `TV`, `Metode`, `Test`, `Main`
-* `vjezbe6.zadatak3` – **Zadatak 3 (Restoran i zaposleni):** `Zaposleni`, `Konobar`, `Kuvar`, `Menadzer`, `ObracunPlate`, `Restoran`, `TipSmjene`, `Smjena`, `Test`
+Projekat je podijeljen na četiri paketa unutar `src/`:
+* `gui.osnove` – Primjeri sa slajdova za Swing GUI (`DijalogPrimjer`, `UnosBroja`, `KvadratBrojaDijalog`, `MojaForma`, `Forma`, `ViseKomponentiListener`)
+* `vjezbe6.troskovi` – Zadatak sa Vježbi VI (`Trosak`, `Zaposleni`, `StalnoZaposleni`, `HonorarniZaposleni`, `Racun`, `Testnaklasa`)
+* `izuzeci.osnove` – Primjeri sa slajdova za obradu izuzetaka (`PrimjerBezObradeIzuzetaka`, `PrimjerSaObradomIzuzetaka`, `BacanjeIzuzetkaSaFinally`)
+* `vjezbe7.razlomci` – Zadatak sa Vježbi VII (`Razlomak`, `GUIRazlomak`)
